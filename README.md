@@ -1,2 +1,2 @@
-# psi-icon-sets
-My own icon sets for Psi+, an XMPP cilent
+# Psi+ icon sets
+These are my own icon themes for the XMPP cilent, Psi+.
